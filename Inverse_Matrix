@@ -1,22 +1,11 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
+// Engineer: Shreejal Trivedi
+// Roll No: 201501112
 // Create Date:    16:25:16 10/05/2016 
 // Design Name: 
 // Module Name:    Inverse_of_Matrix 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
+// Project Name: Inverse Matrix
 //////////////////////////////////////////////////////////////////////////////////
 module inverse_matrix(mat, clk, i, in);
 
